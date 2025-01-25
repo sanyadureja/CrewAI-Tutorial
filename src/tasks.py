@@ -19,9 +19,9 @@ class MeetingPrepTasks():
                 A detailed report summarizing key findings about each participant
                 and company, highlighting information that could be relevant for the meeting."""),
             # Agent
-            agent=agent,
+            agent=agent
             # Parallel execution (Process)
-            async_execution=True 
+            #async_execution=True 
         )
     
     # Task-2
@@ -37,7 +37,7 @@ class MeetingPrepTasks():
         expected_output=dedent(f"""\
             An insightful analysis that identifies major trends, potential challenges, 
             and strategic opportunities."""),
-        async_execution=True,
+        #async_execution=True,
         agent=agent
     )
 
