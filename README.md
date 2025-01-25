@@ -3,9 +3,11 @@
 ## Description
 
 ## References
-https://alejandro-ao.com/crew-ai-crash-course-step-by-step/
+- https://alejandro-ao.com/crew-ai-crash-course-step-by-step/
 
-https://www.youtube.com/watch?v=kBXYFaZ0EN0&list=PLMVV8yyL2GN9ct3oCH1RsjYtd26BphzT6&index=5
+- https://www.youtube.com/watch?v=kBXYFaZ0EN0&list=PLMVV8yyL2GN9ct3oCH1RsjYtd26BphzT6&index=5
+
+- https://exa.ai
 
 ### Step-1: Create a Virtual Environment
 Navigate to the project directory and run the following command in the terminal:
